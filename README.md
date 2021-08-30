@@ -1,6 +1,6 @@
 # Voting-System
 
-##What it does
+## What it does
 An Ethereum Decentralized Application of a voting system. 
 
 The application uses smart contracts and uses the Ethereum blockchain to allow accounts on Meta Mask to vote for candidates.
