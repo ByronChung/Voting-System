@@ -1,9 +1,9 @@
 # Voting-System
 
 ## What it does
-An Ethereum Decentralized Application of a voting system. 
+An Ethereum Decentralized Application of a voting system using blockchain and smart contracts. 
 
-The application uses smart contracts and uses the Ethereum blockchain to allow accounts on Meta Mask to vote for candidates.
+The application uses smart contracts to validate candidate votes and uses the Ethereum blockchain to allow accounts on Meta Mask to vote for candidates.
 
 ## How to run?
 Type npm run dev on console to run the code.
